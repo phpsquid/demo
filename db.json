@@ -1,14 +1,18 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "reviews": [
+    {
+      "id": 1,
+      "name": "Cody Uptain",
+      "review": "Such a great service! I love them, they are the best.",
+      "starRating": 5,
+      "date": 1605646877
+    },
+    {
+      "id": 2,
+      "name": "Trevor Howard",
+      "review": "Love the company, 4 stars across the board.",
+      "starRating": 4,
+      "date": 1605642833
+    }
+  ]
 }
