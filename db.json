@@ -13,6 +13,20 @@
       "review": "Love the company, 4 stars across the board.",
       "starRating": 4,
       "date": 1605642833
+    },
+    {
+      "id": 3,
+      "name": "John Doe",
+      "review": "WOW! Every interaction I have with this company is professional, cheerful and efficient. The owners and staff are unbelievably responsive, helpful and always willing to go the extra mile and I am a small account for them.",
+      "starRating": 5,
+      "date": 1605642222
+    },
+    {
+      "id": 4,
+      "name": "Jane Lewis",
+      "review": "Sotellus has been a great addition to our office. It has taken stress off us by allowing our patients greater access and ease of providing reviews and testimonials. ",
+      "starRating": 5,
+      "date": 1605542833
     }
   ]
 }
